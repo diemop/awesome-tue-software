@@ -10,6 +10,7 @@ An interesting subject with one of the better professors of TU/e, [Bas Luttik](h
 
 ####Resources
 **book** : [Logical Reasoning : A First Course](https://www.goodreads.com/book/show/2267998.Logical_Reasoning) (you probably have to buy it as I could not find a PDF of it) (get it from the student association for a lower price or find a friend from second year who no longer needs the book)
+
 **my notes and files** : [include slides, past exams, exercises and more](https://infinit.io/_/3kMJbQV)
 ####Further Reading
 [**how to prove it**](https://www.goodreads.com/book/show/739735.How_to_Prove_It) - a really great book on making the transition from solving problems to proving theorems, I struggled with induction for a long time, this helped me
@@ -22,6 +23,7 @@ An introductory course to programming in Java. The course is focused on teaching
 [Java MOOC](http://mooc.fi/courses/2013/programming-part-1/) - a really nicely made course for teaching Java
 [Team Treehouse](https://teamtreehouse.com/tracks/learn-java) - teamtreehouse is great, you get the first 7 days free trial so if you use it wisely, you will get a ton of value from it
 [stack](http://stackoverflow.com/) - stack and google are your friend, learn to google well and [find the results that you need](https://xkcd.com/979/)
+
 **my notes and files** : [code, assigments, instuctions and slides](https://infinit.io/_/37QUezc) 
 
 
@@ -32,6 +34,7 @@ An introductory course on calculus that teaches you the basics of calculus like 
 [Khan Academy](https://www.khanacademy.org) - do math, get points, get cool avatars and themes
 [PatrickJMT](http://patrickjmt.com) - a lot of material covered with great explanations
 [BetterExplained](http://betterexplained.com/calculus/) - intuitive understanding of what it is you are doing is extremely important
+
 **my notes and files** : [book, exams, slides](https://infinit.io/_/9kbJKwm) 
 
 
@@ -43,6 +46,7 @@ A rather broad overview of various fields in physics. The [book](https://www.goo
 [Khan Academy](https://www.khanacademy.org) - do physics, get points, get cool avatars and themes
 [Michel van Biezen](https://www.youtube.com/c/michelvanbiezen/playlists) - a really great physics teacher who covers all of the material that is needed for the course
 [Physics Forums](https://www.physicsforums.com/) - a lot of great discussions with some really [cool threads](https://www.physicsforums.com/threads/physics-learning-resources.825111/)
+
 **my notes and files** : [exams and a cheat sheet you can bring with you](https://infinit.io/_/NKwagbE)
 
 ####Computer Systems
@@ -50,6 +54,7 @@ A rather broad overview of various fields in physics. The [book](https://www.goo
 A course that teaches you what a computer is at a very low level. There are weekly lecturs and a weekly session where you work on the assigned tasks that you need to complete with your partner. In the assignments, you will use the knowledge of OR, AND, NOR and other gates to make the necessary logic to make whatever is tasked for you. After the first few assignments, you will need to write your own assembly code for the PP2 processor provided by the university. I found this a rather challenging task but the instruction set of the PP2 processor is quite short, you just need to get accustomed to how you can use it.
 #####Resources
 [Code : Hidden Language of Software](https://www.goodreads.com/book/show/44882.Code) - a really remarkable book gives a big prespective of what is code and what a computer actually is
+
 **my notes and files** : [my assignment and slides with a reader](https://infinit.io/_/36Az4uy)
 
 ####Fundamentals of Informatics [2IS80]
