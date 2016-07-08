@@ -21,7 +21,9 @@ An interesting subject with one of the better professors of TU/e, [Bas Luttik](h
 An introductory course to programming in Java. The course is focused on teaching you the basics of programming, what classes, methods are as well as inheritance and how to work with graphical interfaces to show results in a GUI panel. There were weekly assignments that you had to complete, one of them is making an implementation of a solar system which was quite fun but challenging. You can submit your assignments in [Peach](https://peach.win.tue.nl) and you can submit them in pairs. For people that already have some experience with programming, there were extra assignments that one can do that were much harder than normal and if done well can allow you to not sit the final exam. It was quite a fun course although, you do have to put in the time outside to learn how to achieve the things that you want in java. Fortunately there are a ton of resources online for just that. Also since the exam is done with your laptop and you complete exercises offline, what I did is download the Java docset on my laptop as well as a multitude of other resources that I might need and all the solutions from the exercises and then just have that as reference available for me in the exam.
 ####Resources
 [Java MOOC](http://mooc.fi/courses/2013/programming-part-1/) - a really nicely made course for teaching Java
+
 [Team Treehouse](https://teamtreehouse.com/tracks/learn-java) - teamtreehouse is great, you get the first 7 days free trial so if you use it wisely, you will get a ton of value from it
+
 [stack](http://stackoverflow.com/) - stack and google are your friend, learn to google well and [find the results that you need](https://xkcd.com/979/)
 
 **my notes and files** : [code, assigments, instuctions and slides](https://infinit.io/_/37QUezc) 
@@ -32,7 +34,9 @@ An introductory course to programming in Java. The course is focused on teaching
 An introductory course on calculus that teaches you the basics of calculus like limits and differentiation. There are weekly lectures that are really badly done, the lecturer just goes over some of the exercises and very quickly tries to give an explanation of how and what to do. It will be a much better use of your time I believe to just do all the weekly exercises that will be posted online and get help from the internet from either [PatrickJMT](http://patrickjmt.com) or [Khan Academy](https://www.khanacademy.org/). There are also weekly meetings that one should visit where you can work through some of the exercises with the tutor, you can come in with any questions that you could not work out on your own to get the best return out of these meetings.
 #####Resources
 [Khan Academy](https://www.khanacademy.org) - do math, get points, get cool avatars and themes
+
 [PatrickJMT](http://patrickjmt.com) - a lot of material covered with great explanations
+
 [BetterExplained](http://betterexplained.com/calculus/) - intuitive understanding of what it is you are doing is extremely important
 
 **my notes and files** : [book, exams, slides](https://infinit.io/_/9kbJKwm) 
@@ -44,7 +48,9 @@ An introductory course on calculus that teaches you the basics of calculus like 
 A rather broad overview of various fields in physics. The [book](https://www.goodreads.com/book/show/10009608-university-physics-with-modern-physics) is really great and has a lot of amazing material and exercises that one can complete. There are weekly online tests with questions that you will need to do. There were also weekly sessions where one could work and ask questions on the exercises that were set out as homework. The tutors were really helpful and it was very nice to get explanations first hand about anything that puzzled you about the exercises. It was an interesting course with a lot of self learning to be done if you have never done physics before in high school.
 #####Resources
 [Khan Academy](https://www.khanacademy.org) - do physics, get points, get cool avatars and themes
+
 [Michel van Biezen](https://www.youtube.com/c/michelvanbiezen/playlists) - a really great physics teacher who covers all of the material that is needed for the course
+
 [Physics Forums](https://www.physicsforums.com/) - a lot of great discussions with some really [cool threads](https://www.physicsforums.com/threads/physics-learning-resources.825111/)
 
 **my notes and files** : [exams and a cheat sheet you can bring with you](https://infinit.io/_/NKwagbE)
