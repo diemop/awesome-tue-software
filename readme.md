@@ -80,6 +80,14 @@ A really unremarkable subject that all students have to take. Fortunately all th
 #####Description
 Probably the best and the hardest course of the first year for Software Science. Data structures are important, as Linus himself said "Good programmers worry about data structures and their relationships.". The course is taught by [Bettina Speckmann](http://www.win.tue.nl/~speckman/) and is supplemented by really useful weekly sessions where one could ask questions about the weekly assignments that one needs to do. Speaking of assignments, they are **important**. In fact if you do not get an average grade of 5 between the best 5 of them, you are not addmitted to the exam. It very well advised to typeset the assignments in LaTeX so it is best to get accustomed to it beforehand. Assignments take quite a lot of time and are best done with help of one's classmates.
 #####Resources
+**my notes and files** : [assignments, notes, slides](https://infinit.io/_/39MciYr) 
+[MIT course on Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+[MIT Design and Analysis of Algorithms](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+[Coursera Course on Algorithms](https://www.coursera.org/learn/introduction-to-algorithms)
+[Visualising Algorithms](http://visualgo.net)
+[Data Structures Visualisation](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+[Github Algorithms Awesome List](https://github.com/tayllan/awesome-algorithms)
+[Another great algorithm visualiser](http://algo-visualizer.jasonpark.me/#path=backtracking/knight's_tour/basic)
 
 ###Fourth Quartile
 ###Automata and Process Theory
