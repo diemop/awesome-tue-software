@@ -109,9 +109,22 @@ This course teaches you what it means to have an understanding of a user who wil
 2. design assignment (where you design an interface visually, you don't have to implement it but do have to make some kind of interaction, you can even make it in powerpoint with clickable elements that lead to new layouts)
 3. thermostat application (create a web or android application that fits certain criteria provided by the course, all the server connections are implemented for you, you just need to make the right calls to both retrieve and send data to the server)
 ####Resources
+**my notes and files** : [exams, assignments, slides](https://infinit.io/_/32Puuvc)
+
+[Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation) (best book you can read on the subject)
+
+[Automata Youtube Series](https://www.youtube.com/watch?v=Kfh7lbgPFew)
+(previously Coursera course) 
+
+[Theory of Computation](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz) (youtube video series) (really great explanations)
 
 ###Ethics
 ####Description
 This is a course that is part of the various USE base courses that all students have to complete. USE stands for [U]ser [S]ociety [E]nterprise. In the course, you complete a wiki with a group about whatever theme that you've been assigned to do. The subject is split into two parts, one **ethics** and one **history**. Ethics part was taught from a very badly written book, fortunately there are really great summaries that do manage to fit in all the important bits and pieces for one to learn.
 ####Resources
+[Philosophy: Immanuel Kant](https://www.youtube.com/watch?v=nsgAsw4XGvU)
+(youtube)
+
+[What is Philosophy](https://www.youtube.com/watch?v=1A_CAkYt3GY) by Crash
+Course (may be less relevant but still great series to watch)
 
