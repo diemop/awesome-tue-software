@@ -101,14 +101,6 @@ Probably the best and the hardest course of the first year for Software Science.
 #####Description
 This a theoretical course that teaches you about what regular languages, finite automata, context free languages, PDAs and turing machines are. The course mostly covers the material that you find in the slides and the lecture notes provided by the professor. Various notation symbols and proofs can be quite difficult at first to decipher but if you get an intuitive understanding of how the proof is done, it will be much easier. The lecturer has a very nice tendency to give exams that are very similar to what you get in the prior examplary exams so pay attention to those if you want a high grade. 
 #####Resources
-
-###Human Technology Interaction (elective)
-####Description
-This course teaches you what it means to have an understanding of a user who will be using the technology and products that you will create. All of its lectures are online so you can watch them at any time you want. The course was seperated into three parts : 
-1. evaluation assignment (where you are given a website to observe and give commentary on it on the basis of what you learned in web lectures
-2. design assignment (where you design an interface visually, you don't have to implement it but do have to make some kind of interaction, you can even make it in powerpoint with clickable elements that lead to new layouts)
-3. thermostat application (create a web or android application that fits certain criteria provided by the course, all the server connections are implemented for you, you just need to make the right calls to both retrieve and send data to the server)
-####Resources
 **my notes and files** : [exams, assignments, slides](https://infinit.io/_/32Puuvc)
 
 [Theory of Computation](https://www.goodreads.com/book/show/400716.Introduction_to_the_Theory_of_Computation) (best book you can read on the subject)
@@ -117,6 +109,14 @@ This course teaches you what it means to have an understanding of a user who wil
 (previously Coursera course) 
 
 [Theory of Computation](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz) (youtube video series) (really great explanations)
+
+###Human Technology Interaction (elective)
+####Description
+This course teaches you what it means to have an understanding of a user who will be using the technology and products that you will create. All of its lectures are online so you can watch them at any time you want. The course was seperated into three parts : 
+1. evaluation assignment (where you are given a website to observe and give commentary on it on the basis of what you learned in web lectures
+2. design assignment (where you design an interface visually, you don't have to implement it but do have to make some kind of interaction, you can even make it in powerpoint with clickable elements that lead to new layouts)
+3. thermostat application (create a web or android application that fits certain criteria provided by the course, all the server connections are implemented for you, you just need to make the right calls to both retrieve and send data to the server)
+####Resources
 
 ###Ethics
 ####Description
@@ -128,3 +128,4 @@ This is a course that is part of the various USE base courses that all students 
 [What is Philosophy](https://www.youtube.com/watch?v=1A_CAkYt3GY) by Crash
 Course (may be less relevant but still great series to watch)
 
+#Second Year
