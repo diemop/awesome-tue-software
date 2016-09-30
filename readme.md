@@ -40,7 +40,7 @@ An introductory course to programming in Java. The course is focused on teaching
 - [stack](http://stackoverflow.com/) 
 	- stack and google are your friend, learn to google well and [find the results that you need](https://xkcd.com/979/)
 - [code academy](https://www.codecademy.com/ja/learn/learn-java)
-- **my notes and files** : [code, assigments, instuctions and slides](https://infinit.io/_/37QUezc) 
+- **my notes and files** : [code, assigments, instuctions and slides](https://infinit.io/_/45bE4Fh) 
 
 #####Further Reading
 - [Java: The Complete Reference](https://www.goodreads.com/book/show/17718131-java)
