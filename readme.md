@@ -6,7 +6,8 @@ I have currently finished my first year at Technical University of Eindhoven for
 I have added my own notes, and thoughts on the subjects done but I am very open to other people's input. If you have anything you want to share relevant to the subject, just [fork](https://help.github.com/articles/fork-a-repo/) this repository and add your own links where appropriate, then do a [pull request](https://help.github.com/articles/about-pull-requests/). I am open to any changes and feedback. 
 
 #Hackathons
-Hackathons are a really awesome way to put what you know into practice and create something great in a very short time. Unlike UK and US, hackathons are not such a common such a common occurence in Netherlands unforunately but that can change. :) 
+Hackathons are a really awesome way to put what you know into practice and create something great in a very short time. Unlike UK and US, hackathons are not such a common occureence in Netherlands unforunately but that is sure to change soon. :) 
+ 
 There are quite a few hackathons happening around Europe like [Junction](http://hackjunction.com) or [OxfordHack](http://www.oxfordhack.com). [Here](https://calendar.google.com/calendar/embed?src=l6lnjiqmr0sc9ijj7rq2lqb5d8@group.calendar.google.com&ctz=Europe/London) is a calendar of all the european hackathons that is very commonly updated. I suggest all students to apply to some and try yourself out, or help [organise one yourself](https://guide.mlh.io). There is also a [hackathon happening here in Eindhoven](http://hackeindhoven.nl), hope to see you then.
 
 ##First Year 
