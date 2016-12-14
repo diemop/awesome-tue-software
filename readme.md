@@ -127,7 +127,7 @@ Probably the best and the hardest course of the first year for Software Science.
 
 - [Another great algorithm visualiser](http://algo-visualizer.jasonpark.me/#path=backtracking/knight's_tour/basic)
 
-- **my notes and files** : [assignments, notes, slides](https://infinit.io/_/39MciYr) 
+- **my notes and files** : [assignments, notes, slides](https://infinit.io/_/XN33iSD) 
 
 ###Fourth Quartile
 ###Automata and Process Theory [2IT70]
@@ -167,8 +167,9 @@ series to watch
 
 ##Second Year 
 ###First Quartile
-####Discrete Structuress
+####Discrete Structures
 #####Description
+Computer Science is a subfield of mathematics more specifically 
 #####Resources
 
 ####Social Robots
