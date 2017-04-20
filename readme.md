@@ -1,14 +1,24 @@
-#TU/e Software Science Awesome List
+# TU/e Software Science Awesome List
 
-I have currently finished my first year at Technical University of Eindhoven for Computer Science and I always wanted to have some kind of resource collection for all of the courses that one can do in the course of this bachelor. Notes, comments, guides and anything else that can save me and other people time so to spend less time studying and more time building and using the things you've learned. In the spirit of [awesome lists](https://github.com/sindresorhus/awesome) and [awesome courses](https://github.com/prakhar1989/awesome-courses), here is one ever more awesome for all the Software and Web Science students of TU/e.
+I finished my first year at Technical University of Eindhoven for Computer Science and I always wanted to have some kind of resource collection for all of the courses that one can do in the course of this bachelor. Notes, comments, guides and anything else that can save me and other people time so to spend less time studying and more time building and using the things you've learned. In the spirit of [awesome lists](https://github.com/sindresorhus/awesome) and [awesome courses](https://github.com/prakhar1989/awesome-courses), here is one ever more awesome for all the Software and Web Science students of TU/e.
 
-##Adding Content
+# Adding Content
 I have added my own notes, and thoughts on the subjects done but I am very open to other people's input. If you have anything you want to share relevant to the subject, just [fork](https://help.github.com/articles/fork-a-repo/) this repository and add your own links where appropriate, then do a [pull request](https://help.github.com/articles/about-pull-requests/). I am open to any changes and feedback. 
 
-#Hackathons
+# Update
+
+I have stopped adding information to this repository as I focus on [knowledge map](https://github.com/nikitavoloboev/knowledge-map) which achieves similar goals but on a more global level.
+
+However I don't want to delete this repo as I think it is immensely useful and I wish other universities took this approach as it both helps new students and gives a glimpse of what studying in other universities is like.
+
+Plus knowledge sharing is never a bad thing, I think. If you are a student at TU/e and you found this, you are more than welcome to fork this repo and update it with your notes or resources or perhaps descriptions of subjects. 
+
+# Hackathons
 Hackathons are a really awesome way to put what you know into practice and create something great in a very short time. Unlike UK and US, hackathons are not such a common occureence in Netherlands unforunately but that is sure to change soon. :) 
- 
-There are quite a few hackathons happening around Europe like [Junction](http://hackjunction.com) or [OxfordHack](http://www.oxfordhack.com). [Here](https://calendar.google.com/calendar/embed?src=l6lnjiqmr0sc9ijj7rq2lqb5d8@group.calendar.google.com&ctz=Europe/London) is a calendar of all the european hackathons that is very commonly updated. I suggest all students to apply to some and try yourself out, or help [organise one yourself](https://guide.mlh.io). There is also a [hackathon happening here in Eindhoven](http://hackeindhoven.nl), hope to see you then.
+
+
+I suggest all students to apply to some and try yourself out, or help [organise one yourself](https://guide.mlh.io). 
+
 
 ##First Year 
 ###First Quartile
@@ -166,18 +176,26 @@ Course
 series to watch
 
 ##Second Year 
+
 ###First Quartile
+
 ####Discrete Structures
+
 #####Description
-Computer Science is a subfield of mathematics more specifically 
+
+
 #####Resources
 
 ####Social Robots
+
 #####Description
+
 #####Resources
 
 #####Engineering Design
+
 #####Description
+
 #####Resources
 
 
