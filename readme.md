@@ -1,11 +1,27 @@
-# TU/e Software Science Awesome List
+
+
+<h1 align="center"> TU/e Software Science Awesome List 📚</h1>
+
+<div align="center">
+<a href="https://www.patreon.com/nikitavoloboev">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/nikitavoloboev//blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 I finished my first year at Technical University of Eindhoven for Computer Science and I always wanted to have some kind of resource collection for all of the courses that one can do in the course of this bachelor. Notes, comments, guides and anything else that can save me and other people time so to spend less time studying and more time building and using the things you've learned. In the spirit of [awesome lists](https://github.com/sindresorhus/awesome) and [awesome courses](https://github.com/prakhar1989/awesome-courses), here is one ever more awesome for all the Software and Web Science students of TU/e.
 
-# Adding Content
+
+<h2 align="center"> Adding Content </h2>
+
 I have added my own notes, and thoughts on the subjects done but I am very open to other people's input. If you have anything you want to share relevant to the subject, just [fork](https://help.github.com/articles/fork-a-repo/) this repository and add your own links where appropriate, then do a [pull request](https://help.github.com/articles/about-pull-requests/). I am open to any changes and feedback. 
 
-# Update
+<h2 align="center"> Update </h2>
 
 I have stopped adding information to this repository as I focus on [knowledge map](https://github.com/nikitavoloboev/knowledge-map) which achieves similar goals but on a more global level.
 
@@ -13,14 +29,18 @@ However I don't want to delete this repo as I think it is immensely useful and I
 
 Plus knowledge sharing is never a bad thing, I think. If you are a student at TU/e and you found this, you are more than welcome to fork this repo and update it with your notes or resources or perhaps descriptions of subjects. 
 
-# Hackathons
+
+<h2 align="center"> Hackathons </h2>
+
 Hackathons are a really awesome way to put what you know into practice and create something great in a very short time. Unlike UK and US, hackathons are not such a common occureence in Netherlands unforunately but that is sure to change soon. :) 
 
 
 I suggest all students to apply to some and try yourself out, or help [organise one yourself](https://guide.mlh.io). 
 
 
-## First Year 
+
+<h2 align="center"> First Year </h2>
+
 ### First Quartile
 #### Logic [2IT60]
 ##### Description
