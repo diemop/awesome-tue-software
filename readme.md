@@ -19,10 +19,6 @@ I finished my first year at Technical University of Eindhoven for Computer Scien
 
 I have added my own notes, and thoughts on the subjects done but I am very open to other people's input. If you have anything you want to share relevant to the subject, just [fork](https://help.github.com/articles/fork-a-repo/) this repository and add your own links where appropriate, then do a [pull request](https://help.github.com/articles/about-pull-requests/). I am open to any changes and feedback. 
 
-<h2 align="center"> Update </h2>
-
-I finished my first year at Technical University of Eindhoven for Computer Science and I always wanted to have some kind of resource collection for all of the courses that one can do in the course of this bachelor. Notes, comments, guides and anything else that can save me and other people time so to spend less time studying and more time building and using the things you've learned. In the spirit of [awesome lists](https://github.com/sindresorhus/awesome) and [awesome courses](https://github.com/prakhar1989/awesome-courses), here is one ever more awesome for all the Software and Web Science students of TU/e.
-
 <h1 align="center"> Adding Content </h1>
 
 I have added my own notes, and thoughts on the subjects done but I am very open to other people's input. If you have anything you want to share relevant to the subject, just [fork](https://help.github.com/articles/fork-a-repo/) this repository and add your own links where appropriate, then do a [pull request](https://help.github.com/articles/about-pull-requests/). I am open to any changes and feedback. 
